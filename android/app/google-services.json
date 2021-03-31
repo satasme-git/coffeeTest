@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "332685471738",
+    "project_id": "flawless-lacing-307006",
+    "storage_bucket": "flawless-lacing-307006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332685471738:android:f9bb09102551cbe6363e43",
+        "android_client_info": {
+          "package_name": "com.coffeeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332685471738-pc21igf557r77ao5t8l1dve3l4u9716i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhh1h7dTDtN76xkY2sEQ13cCOAZ-2BcyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332685471738-pc21igf557r77ao5t8l1dve3l4u9716i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
